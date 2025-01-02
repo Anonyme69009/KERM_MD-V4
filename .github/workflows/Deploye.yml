@@ -86,7 +86,7 @@ Editing app.json file contents
 114
 115
 116
-    "AUTO_REPLY": {
+    "AUTO_REPLY": 
 
     "AUTO_READ_STATUS": {
       "description": "Make it true if you want bot auto auto_read_status.",
