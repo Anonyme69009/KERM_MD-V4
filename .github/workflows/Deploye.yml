@@ -111,5 +111,5 @@
             "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
         }
      ],
-  "stack": "KERM_MD-V4"
+  {
 }
